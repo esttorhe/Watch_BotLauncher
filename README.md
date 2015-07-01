@@ -1,6 +1,6 @@
-# ᴡᴀᴛᴄʜ Bot Launcher :rocket: 
+# ᴡᴀᴛᴄʜ Xcode Bot Launcher :rocket: 
 
-ᴡᴀᴛᴄʜ App that will let you launch :rocket: bots directly from your wrist! :boom:
+ᴡᴀᴛᴄʜ App that will let you launch :rocket: Xcode bots directly from your wrist! :boom:
 
 # Author
 
